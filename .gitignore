@@ -8,4 +8,5 @@ coverage
 .bundle
 .ruby-gemset
 .ruby-version
+.versions.conf
 Gemfile.lock
